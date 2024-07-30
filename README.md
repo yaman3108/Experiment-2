@@ -1,4 +1,4 @@
-# 2. EXPERIMENT 2
+# EXPERIMENT 2
 
 
 
